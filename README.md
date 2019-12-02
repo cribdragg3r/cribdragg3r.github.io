@@ -1,8 +1,6 @@
-<a href ="https://sevrosecurity.com">
-  <img src="https://sevrosecurity.com/wp-content/uploads/2019/09/ss_icon.png"
-    align="left" height=75 length=75 />
-    </a>
 
 ## Sevro Security Git
+
+<img src="images/ss_icon.ico" alt="hi" class="inline"/>
 
 ### Repositories
